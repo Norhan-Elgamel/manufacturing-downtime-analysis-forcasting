@@ -1,238 +1,213 @@
-Manufacturing Downtime Analysis & Forecasting
+# Manufacturing Downtime Analysis & Forecasting
 
-Project Idea
+## Project Idea
 
 This project focuses on analyzing a manufacturing dataset to study machine downtime, extract operational insights, answer analytical and forecasting questions, and build a visualization dashboard to support production decision-making.
 
 The project includes:
 
-Data preprocessing and cleaning
+- **Data preprocessing and cleaning**
+- **Exploratory Data Analysis (EDA)**
+- **Predictive maintenance modeling using machine learning**
+- **Downtime forecasting**
+- **Building an interactive dashboard using Tableau**
 
-Exploratory data analysis (EDA)
+---
 
-Predictive maintenance modeling using machine learning
+## Team Information
 
-Downtime forecasting
+**Team Name:** Team 3
 
-Building an interactive dashboard using Tableau
+### Team Members
 
-Team Information
+- **Norhan Ahmed Elagmel** (Leader)
+- Basmala Ahmed Eid
+- Nada Waleed Mustafa
+- Nada Ali Abdellatif
+- Hebaallah Samy Ahmed
 
-Team Name: Team 3
+---
 
-Team Members
+## Project Plan
 
-Norhan Ahmed Mohamed (Leader)
+### 1. Research & Analysis
 
-Basmala Ahmed Eid
+- Data preprocessing and cleaning
+- Build manufacturing data model
+- Identify operational and downtime analysis questions
+- **Target Audience:** Operations managers, maintenance engineers, plant supervisors
 
-Nada Waleed Mustafa
+### 2. Visual Identity
 
-Nada Ali Abdellatif
+- Logo design for presentation and dashboard branding
 
-Hebaallah Samy Ahmed
+### 3. Main Designs
 
-Project Plan
-1. Research & Analysis
+- Downtime dashboard design
+- Operational performance visualizations
+- Presentation slides
 
-Data preprocessing and cleaning
+### 4. Complementary Products
 
-Build manufacturing data model
+- Data preprocessing notebook
+- Predictive maintenance model notebook
+- Downtime forecasting notebook
 
-Identify operational and downtime analysis questions
+### 5. Review & Finalization
 
-Target Audience: Operations managers, maintenance engineers, plant supervisors
+- Validate model performance
+- Optimize dashboard performance
+- Final documentation
 
-2. Visual Identity
+### 6. Final Presentation
 
-Logo design for presentation and dashboard branding
+- Present operational insights
+- Explain forecasting results
+- Demonstrate dashboard functionality
 
-3. Main Designs
+---
 
-Downtime dashboard design
+## Roles & Responsibilities
 
-Operational performance visualizations
+- **Data Cleaning & Preprocessing** — SQL, Python (Pandas)
+- **Data Analysis & Visualization** — Python (Matplotlib), Tableau
+- **Predictive Maintenance Modeling** — Python (Scikit-learn)
+- **Downtime Forecasting** — Python (Scikit-learn, Pandas)
+- **Dashboard Development** — Tableau
+- **Documentation & Presentation** — Team collaboration
 
-Presentation slides
+---
 
-4. Complementary Products
+## KPIs (Key Performance Indicators)
 
-Data preprocessing notebook
+- Data cleaning accuracy
+- Machine failure prediction accuracy
+- Downtime prediction precision and recall
+- Dashboard usability
+- Insight usefulness for operational decision-making
 
-Predictive maintenance model notebook
+---
 
-Downtime forecasting notebook
-
-5. Review & Finalization
-
-Validate model performance
-
-Optimize dashboard performance
-
-Final documentation
-
-6. Final Presentation
-
-Present operational insights
-
-Explain machine learning forecasting results
-
-Demonstrate dashboard functionality
-
-Roles & Responsibilities
-
-Data Cleaning & Preprocessing — SQL, Python (Pandas)
-
-Data Analysis & Visualization — Python (Matplotlib), Tableau
-
-Predictive Maintenance Modeling — Python (Scikit-learn)
-
-Downtime Forecasting — Python (Scikit-learn, Pandas)
-
-Dashboard Development — Tableau
-
-Documentation & Presentation — Team Collaboration
-
-KPIs (Key Performance Indicators)
-
-Data cleaning accuracy
-
-Machine failure prediction accuracy
-
-Downtime prediction precision and recall
-
-Dashboard usability
-
-Insight usefulness for operational decision making
-
-Instructor
+## Instructor
 
 Mr. Abdelrahman Ashour
 
-Project Timeline (4 Weeks)
-Week 1 — Data Model & Preprocessing
-Tasks
+---
 
-Build manufacturing data model
+# Project Timeline (4 Weeks)
 
-Clean and preprocess dataset
+## Week 1 — Data Model & Preprocessing
 
-Handle missing values
+### Tasks
 
-Perform feature engineering
+- Build manufacturing data model
+- Clean and preprocess dataset
+- Handle missing values
+- Perform feature engineering
 
-Tools
+### Tools
 
-SQL
+- SQL
+- Python (Pandas, Matplotlib)
 
-Python (Pandas, Matplotlib)
+### Deliverables
 
-Deliverables
+- Cleaned dataset
+- Data preprocessing notebook
 
-Cleaned dataset
+---
 
-Data preprocessing notebook
+## Week 2 — Analysis Questions Phase
 
-Week 2 — Analysis Questions Phase
-Tasks
+### Tasks
 
-Define operational analysis questions
+- Define operational analysis questions
+- Analyze factors affecting machine failure
+- Identify patterns in downtime causes
+- Evaluate the impact of temperature, torque, and tool wear on failure
 
-Analyze factors affecting machine failure
+### Tools
 
-Identify patterns in downtime causes
+- SQL
+- Python (Pandas, Matplotlib)
 
-Evaluate the impact of temperature, torque, and tool wear on failure
+### Deliverables
 
-Tools
+- Set of analysis questions
+- Exploratory data analysis visualizations
 
-SQL
+---
 
-Python (Pandas, Matplotlib)
+## Week 3 — Forecasting Phase
 
-Deliverables
+### Tasks
 
-Set of analysis questions
+- Define forecasting questions
+- Predict machine downtime probability for the next operational day
+- Estimate production impact
+- Recommend number of batches to produce based on risk
 
-Exploratory data analysis visualizations
+### Tools
 
-Week 3 — Forecasting Phase
-Tasks
+- Python (Scikit-learn, Pandas, Matplotlib)
 
-Define forecasting questions
+### Deliverables
 
-Predict machine downtime probability for the next operational day
+- Downtime prediction model
+- Model evaluation metrics:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 Score
+- Forecasting visualizations
 
-Estimate production impact
+---
 
-Recommend number of batches to produce based on risk
+## Week 4 — Dashboard & Final Presentation
 
-Tools
+### Tasks
 
-Python (Scikit-learn, Pandas, Matplotlib)
+- Build Tableau dashboard
+- Visualize operational KPIs
+- Present model insights and business impact
+- Prepare final documentation and slides
 
-Deliverables
+### Tools
 
-Downtime prediction model
+- SQL
+- Python
+- Tableau
 
-Model evaluation metrics (Accuracy, Precision, Recall, F1 Score)
+### Deliverables
 
-Forecasting visualizations
+- Interactive downtime dashboard
+- Final report
+- Final presentation
 
-Week 4 — Dashboard & Final Presentation
-Tasks
+---
 
-Build Tableau dashboard
+## Project Files
 
-Visualize operational KPIs
-
-Present model insights and business impact
-
-Prepare final documentation and slides
-
-Tools
-
-SQL
-
-Python
-
-Tableau
-
-Deliverables
-
-Interactive downtime dashboard
-
-Final report
-
-Final presentation
-
-Project Files
-
-You can find the full project files here:
+You can find the full project files here:  
 Add Google Drive or GitHub repository link here
 
-Tools & Technologies
+---
 
-SQL
+## Tools & Technologies
 
-Python
+- SQL
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Tableau
 
-Pandas
+---
 
-Matplotlib
+## Expected Outcomes
 
-Scikit-learn
-
-Tableau
-
-Expected Outcomes
-
-Clean and structured manufacturing dataset
-
-Operational insights about machine performance
-
-Predictive maintenance model
-
-Downtime probability forecasting
-
-Decision-support dashboard for plant managers
+- Clean and structured manufacturing dataset
+- Operational insights about machine performance
+- Predictive maintenance model
+- Downtime probability forecasting
+- Decision-support dashboard for plant managers
