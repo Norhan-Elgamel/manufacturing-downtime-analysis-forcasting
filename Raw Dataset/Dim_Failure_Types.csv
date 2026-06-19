@@ -1,0 +1,8 @@
+Failure_ID,Failure_Type,Severity_Level,Expected_Repair_Time_Mins,Root_Cause_Category
+F000,No Failure,None,0,None
+F001,Overheating,High,90,Thermal
+F002,Power Failure,Critical,120,Electrical
+F003,Tool Wear,Medium,60,Mechanical
+F004,Sensor Failure,Medium,45,Electrical
+F005,Calibration Error,Low,30,Process
+F006,Material Jam,Medium,50,Mechanical

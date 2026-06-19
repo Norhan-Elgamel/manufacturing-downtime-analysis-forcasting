@@ -1,0 +1,11 @@
+Machine_ID,Machine_Name,Machine_Type,Production_Line,Installation_Date,Machine_Age_Years,Capacity_Per_Hour,Maintenance_Category
+M001,SMT Placement A,SMT Placer,Line 1,2018-03-15,6.1,120,Preventive
+M002,SMT Placement B,SMT Placer,Line 1,2020-07-22,3.9,115,Preventive
+M003,Reflow Oven A,Reflow Oven,Line 1,2017-11-05,6.9,90,Corrective
+M004,Reflow Oven B,Reflow Oven,Line 2,2021-02-10,3.4,88,Preventive
+M005,Wave Solder A,Wave Solderer,Line 2,2016-06-30,8.0,75,Corrective
+M006,AOI Scanner A,AOI Inspector,Line 1,2022-01-18,2.5,200,Preventive
+M007,AOI Scanner B,AOI Inspector,Line 2,2019-09-03,5.0,195,Preventive
+M008,PCB Router A,CNC Router,Line 3,2015-04-27,9.2,60,Corrective
+M009,Test Fixture A,ICT Tester,Line 3,2023-05-14,0.9,150,Preventive
+M010,Conformal Coater,Coating Machine,Line 3,2020-12-01,3.7,80,Preventive
