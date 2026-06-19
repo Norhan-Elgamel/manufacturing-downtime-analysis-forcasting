@@ -1,0 +1,501 @@
+Maintenance_Event_ID,Machine_ID,Failure_ID,Maintenance_Date,Technician_Name,Maintenance_Type,Repair_Duration_Mins,Maintenance_Cost,Parts_Replaced,Maintenance_Status
+ME0001,M006,F001,2024-12-31,Nour Farouk,Corrective,99,488.11,Temperature Sensor,In Progress
+ME0002,M007,F000,2024-01-19,Ahmed Hassan,Preventive,40,201.42,Temperature Sensor,Completed
+ME0003,M001,F001,2024-02-23,Ahmed Hassan,Corrective,82,492.47,Control Board,Completed
+ME0004,M008,F001,2024-10-05,Mohamed Ali,Corrective,113,730.72,Control Board,Completed
+ME0005,M002,F003,2024-07-05,Omar Youssef,Corrective,82,611.15,Filter Assembly,Completed
+ME0006,M004,F006,2024-06-29,Omar Youssef,Corrective,68,379.35,Control Board,Completed
+ME0007,M001,F000,2024-09-07,Nour Farouk,Preventive,34,351.64,Solder Nozzle,Completed
+ME0008,M002,F003,2024-04-09,Khaled Ibrahim,Corrective,56,372.75,Camera Module,Completed
+ME0009,M010,F001,2024-04-26,Omar Youssef,Corrective,126,792.26,Not Specified,Completed
+ME0010,M008,F006,2024-02-02,Ahmed Hassan,Corrective,53,384.66,Control Board,Completed
+ME0011,M008,F004,2024-12-10,Mohamed Ali,Corrective,62,458.24,Drive Motor,Completed
+ME0012,M007,F002,2024-01-13,Dina Tawfik,Corrective,178,915.15,Control Board,Completed
+ME0013,M010,F004,2024-05-15,Sara El-Sayed,Corrective,62,357.96,Calibration Kit,Completed
+ME0014,M002,F003,2024-03-05,Mohamed Ali,Corrective,88,521.91,Camera Module,Completed
+ME0015,M006,F005,2024-03-22,Mohamed Ali,Corrective,28,251.4,Control Board,Completed
+ME0016,M006,F005,2024-11-12,Khaled Ibrahim,Corrective,34,291.96,Camera Module,Completed
+ME0017,M007,F004,2024-07-09,Sara El-Sayed,Corrective,45,334.43,Camera Module,In Progress
+ME0018,M009,F004,2024-02-19,Laila Mahmoud,Corrective,59,506.46,Not Specified,Completed
+ME0019,M007,F000,2024-08-18,Laila Mahmoud,Preventive,40,381.11,Control Board,Completed
+ME0020,M008,F002,2024-08-07,Khaled Ibrahim,Corrective,164,948.68,Temperature Sensor,In Progress
+ME0021,M007,F000,2024-12-09,Ahmed Hassan,Preventive,25,201.25,Drive Motor,Completed
+ME0022,M002,F000,2024-02-26,Omar Youssef,Preventive,55,300.61,Calibration Kit,Completed
+ME0023,M005,F005,2024-08-27,Omar Youssef,Corrective,27,411.76,Control Board,Completed
+ME0024,M002,F000,2024-10-05,Sara El-Sayed,Predictive,43,236.02,Not Specified,Completed
+ME0025,M007,F006,2024-04-04,Ahmed Hassan,Corrective,59,341.3,Calibration Kit,Completed
+ME0026,M005,F002,2024-02-22,Khaled Ibrahim,Corrective,166,632.29,Control Board,Completed
+ME0027,M006,F000,2024-07-24,Laila Mahmoud,Predictive,52,292.68,Conveyor Belt,Completed
+ME0028,M010,F000,2024-12-15,Laila Mahmoud,Predictive,51,441.29,Temperature Sensor,Completed
+ME0029,M005,F001,2024-03-07,Sara El-Sayed,Corrective,116,620.18,Temperature Sensor,Completed
+ME0030,M009,F004,2024-02-05,Omar Youssef,Corrective,50,308.04,Calibration Kit,Completed
+ME0031,M008,F002,2024-01-06,Omar Youssef,Corrective,120,926.43,Heating Element,Completed
+ME0032,M003,F006,2024-06-23,Ahmed Hassan,Corrective,57,236.65,Power Supply Unit,Completed
+ME0033,M009,F002,2024-12-28,Nour Farouk,Corrective,134,498.71,Filter Assembly,Completed
+ME0034,M009,F004,2024-04-28,Omar Youssef,Corrective,62,450.53,Control Board,Completed
+ME0035,M006,F000,2024-08-17,Nour Farouk,Predictive,29,215.34,Filter Assembly,Completed
+ME0036,M002,F005,2024-01-14,Laila Mahmoud,Corrective,40,413.35,Heating Element,Completed
+ME0037,M004,F003,2024-02-14,Ahmed Hassan,Corrective,67,554.48,Temperature Sensor,Completed
+ME0038,M004,F005,2024-06-22,Dina Tawfik,Corrective,42,335.37,Temperature Sensor,Completed
+ME0039,M001,F000,2024-04-08,Omar Youssef,Predictive,60,353.54,Heating Element,Completed
+ME0040,M001,F000,2024-06-17,Laila Mahmoud,Predictive,44,349.25,Calibration Kit,Completed
+ME0041,M004,F001,2024-08-17,Omar Youssef,Corrective,94,611.59,Power Supply Unit,Completed
+ME0042,M001,F001,2024-01-05,Dina Tawfik,Corrective,93,611.6,Not Specified,In Progress
+ME0043,M004,F003,2024-02-10,Omar Youssef,Corrective,71,334.75,Flux Pump,Completed
+ME0044,M008,F005,2024-06-19,Ahmed Hassan,Corrective,44,344.3,Drive Motor,Completed
+ME0045,M005,F000,2024-10-04,Sara El-Sayed,Preventive,61,472.0,Solder Nozzle,Completed
+ME0046,M006,F000,2024-07-17,Nour Farouk,Predictive,37,296.8,Filter Assembly,In Progress
+ME0047,M010,F005,2024-06-02,Dina Tawfik,Corrective,34,173.85,Temperature Sensor,Pending
+ME0048,M007,F005,2024-06-06,Dina Tawfik,Corrective,33,286.96,Drive Motor,Completed
+ME0049,M003,F001,2024-03-26,Laila Mahmoud,Corrective,112,513.93,Control Board,Completed
+ME0050,M010,F003,2024-01-06,Ahmed Hassan,Corrective,63,469.12,Not Specified,Completed
+ME0051,M007,F004,2024-07-13,Omar Youssef,Corrective,60,449.13,Control Board,Completed
+ME0052,M002,F002,2024-04-21,Dina Tawfik,Corrective,175,1017.03,Filter Assembly,Completed
+ME0053,M008,F001,2024-08-21,Omar Youssef,Corrective,101,478.45,Filter Assembly,Completed
+ME0054,M003,F000,2024-07-11,Sara El-Sayed,Predictive,57,509.67,Temperature Sensor,Completed
+ME0055,M001,F004,2024-08-12,Ahmed Hassan,Corrective,67,380.74,Power Supply Unit,Completed
+ME0056,M007,F006,2024-10-03,Laila Mahmoud,Corrective,64,292.67,Solder Nozzle,Completed
+ME0057,M001,F000,2024-03-14,Omar Youssef,Preventive,38,247.86,Not Specified,In Progress
+ME0058,M010,F004,2024-05-12,Nour Farouk,Corrective,58,348.39,Control Board,Completed
+ME0059,M008,F005,2024-10-02,Laila Mahmoud,corrective,32,219.88,Flux Pump,Completed
+ME0060,M008,F000,2024-01-25,Nour Farouk,Predictive,37,379.74,Camera Module,Completed
+ME0061,M004,F000,2024-02-24,Ahmed Hassan,Preventive,36,255.56,Flux Pump,Completed
+ME0062,M006,F006,2024-05-06,Ahmed Hassan,Corrective,57,605.02,Drive Motor,Completed
+ME0063,M008,F005,2024-10-12,Ahmed Hassan,Corrective,44,392.07,Temperature Sensor,Completed
+ME0064,M003,F000,2024-01-22,Sara El-Sayed,Preventive,29,428.99,Conveyor Belt,In Progress
+ME0065,M010,F003,2024-06-15,Dina Tawfik,Corrective,88,751.4,Filter Assembly,Completed
+ME0066,M010,F004,2024-09-25,Mohamed Ali,Corrective,44,401.16,Not Specified,Completed
+ME0067,M005,F001,2024-10-17,Khaled Ibrahim,Corrective,103,513.84,Control Board,Completed
+ME0068,M005,F001,2024-02-28,Ahmed Hassan,Corrective,93,630.08,Calibration Kit,Completed
+ME0069,M001,F000,2024-06-14,Mohamed Ali,Preventive,37,348.35,Flux Pump,In Progress
+ME0070,M003,F003,2024-12-26,Khaled Ibrahim,Corrective,54,424.43,Camera Module,Completed
+ME0071,M002,F000,2024-07-22,Mohamed Ali,Predictive,57,357.43,Camera Module,Completed
+ME0072,M008,F003,2024-06-12,Dina Tawfik,Corrective,54,243.6,Control Board,Completed
+ME0073,M005,F000,2024-05-21,Laila Mahmoud,Preventive,48,347.67,Drive Motor,Completed
+ME0074,M004,F003,2024-01-07,Laila Mahmoud,Corrective,67,444.36,Solder Nozzle,Completed
+ME0075,M007,F004,2024-09-30,Mohamed Ali,Corrective,40,177.86,Camera Module,Completed
+ME0076,M004,F001,2024-03-09,Dina Tawfik,corrective,85,584.47,Calibration Kit,Completed
+ME0077,M001,F001,2024-02-18,Ahmed Hassan,Corrective,120,677.67,Not Specified,Completed
+ME0078,M010,F001,2024-03-07,Nour Farouk,Corrective,111,554.99,Flux Pump,Completed
+ME0079,M003,F000,2024-05-01,Dina Tawfik,Preventive,65,280.39,Control Board,In Progress
+ME0080,M010,F002,2024-06-23,Nour Farouk,Corrective,150,605.29,Control Board,In Progress
+ME0081,M002,F001,2024-02-09,Ahmed Hassan,Corrective,92,557.71,Camera Module,Completed
+ME0082,M008,F005,2024-06-20,Khaled Ibrahim,Corrective,35,238.25,Camera Module,In Progress
+ME0083,M009,F005,2024-08-27,Laila Mahmoud,Corrective,37,192.66,Filter Assembly,Completed
+ME0084,M002,F001,2024-04-01,Laila Mahmoud,Corrective,112,856.11,Temperature Sensor,Completed
+ME0085,M007,F004,2024-12-28,Laila Mahmoud,Corrective,53,387.19,Solder Nozzle,Completed
+ME0086,M006,F003,2024-06-04,Sara El-Sayed,Corrective,70,479.94,Power Supply Unit,Completed
+ME0087,M006,F004,2024-07-26,Mohamed Ali,Corrective,63,379.24,Control Board,Completed
+ME0088,M010,F000,2024-10-19,Omar Youssef,Preventive,53,445.59,Flux Pump,Completed
+ME0089,M001,F000,2024-11-16,Dina Tawfik,Preventive,60,412.99,Drive Motor,Completed
+ME0090,M007,F000,2024-03-06,Khaled Ibrahim,Preventive,50,465.35,Flux Pump,Completed
+ME0091,M010,F006,2024-03-19,Khaled Ibrahim,Corrective,51,354.86,Filter Assembly,Completed
+ME0092,M001,F003,2024-02-21,Mohamed Ali,Corrective,59,476.34,Heating Element,Completed
+ME0093,M003,F001,2024-07-21,Ahmed Hassan,Corrective,84,600.39,Power Supply Unit,Completed
+ME0094,M001,F000,2024-11-20,Khaled Ibrahim,Predictive,40,300.02,Drive Motor,Completed
+ME0095,M008,F000,2024-06-05,Sara El-Sayed,Preventive,50,505.56,Temperature Sensor,Completed
+ME0096,M006,F005,2024-05-07,Dina Tawfik,Corrective,27,238.99,Flux Pump,Completed
+ME0097,M004,F001,2024-07-25,Ahmed Hassan,Corrective,83,459.27,Conveyor Belt,Completed
+ME0098,M007,F005,2024-06-02,Dina Tawfik,Corrective,34,384.43,Camera Module,Completed
+ME0099,M004,F001,2024-12-27,Laila Mahmoud,Corrective,95,733.53,Camera Module,Completed
+ME0100,M002,F003,2024-07-24,Nour Farouk,Corrective,75,587.91,Not Specified,Completed
+ME0101,M005,F000,2024-10-19,Laila Mahmoud,Preventive,57,409.51,Conveyor Belt,Completed
+ME0102,M010,F004,2024-04-03,Dina Tawfik,Corrective,59,345.59,Not Specified,Completed
+ME0103,M004,F005,2024-05-07,Laila Mahmoud,Corrective,41,219.96,Conveyor Belt,In Progress
+ME0104,M005,F000,2024-06-23,Dina Tawfik,Preventive,23,200.93,Flux Pump,Completed
+ME0105,M005,F003,2024-01-12,Laila Mahmoud,Corrective,73,479.04,Flux Pump,Completed
+ME0106,M006,F001,2024-01-23,Ahmed Hassan,Corrective,84,334.28,Flux Pump,Completed
+ME0107,M008,F000,2024-12-28,Ahmed Hassan,Predictive,48,442.8,Camera Module,Completed
+ME0108,M005,F000,2024-03-18,Nour Farouk,Predictive,46,323.26,Flux Pump,Completed
+ME0109,M002,F001,2024-03-08,Sara El-Sayed,Corrective,108,818.65,Calibration Kit,Completed
+ME0110,M004,F005,2024-06-25,Khaled Ibrahim,Corrective,33,388.36,Camera Module,Completed
+ME0111,M002,F004,2024-11-11,Sara El-Sayed,Corrective,53,359.78,Drive Motor,Completed
+ME0112,M007,F004,2024-08-09,Ahmed Hassan,Corrective,45,394.41,Camera Module,Completed
+ME0113,M007,F004,2024-03-02,Omar Youssef,Corrective,44,440.31,Calibration Kit,Completed
+ME0114,M004,F000,2024-06-10,Omar Youssef,Preventive,56,212.67,Flux Pump,Completed
+ME0115,M009,F003,2024-07-02,Laila Mahmoud,Corrective,69,534.01,Camera Module,Completed
+ME0116,M007,F005,2024-01-13,Khaled Ibrahim,Corrective,36,368.69,Heating Element,Completed
+ME0117,M007,F005,2024-02-19,Sara El-Sayed,Corrective,40,343.39,Calibration Kit,Completed
+ME0118,M009,F000,2024-10-31,Dina Tawfik,Predictive,58,322.91,Calibration Kit,Completed
+ME0119,M009,F000,2024-06-29,Omar Youssef,Predictive,67,314.32,Conveyor Belt,Completed
+ME0120,M006,F004,2024-07-23,Dina Tawfik,Corrective,54,330.63,Calibration Kit,Completed
+ME0121,M003,F002,2024-12-31,Khaled Ibrahim,Corrective,167,1076.1,Heating Element,Completed
+ME0122,M008,F003,2024-03-20,Ahmed Hassan,Corrective,70,369.54,Temperature Sensor,Completed
+ME0123,M009,F000,2024-04-23,Nour Farouk,Predictive,67,585.3,Filter Assembly,Completed
+ME0124,M002,F000,2024-11-24,Khaled Ibrahim,Predictive,71,538.11,Camera Module,Completed
+ME0125,M010,F006,2024-01-19,Nour Farouk,Corrective,56,381.0,Drive Motor,Completed
+ME0126,M008,F000,2024-02-21,Laila Mahmoud,Predictive,48,372.46,Drive Motor,Completed
+ME0127,M005,F006,2024-05-07,Mohamed Ali,Corrective,47,330.84,Temperature Sensor,Completed
+ME0128,M001,F000,2024-01-17,Dina Tawfik,Predictive,51,358.58,Temperature Sensor,Completed
+ME0129,M004,F003,2024-01-10,Mohamed Ali,Corrective,57,416.47,Heating Element,Completed
+ME0130,M007,F001,2024-02-25,Ahmed Hassan,Corrective,110,550.34,Heating Element,Completed
+ME0131,M003,F006,2024-07-10,Ahmed Hassan,Corrective,53,398.12,Drive Motor,Completed
+ME0132,M009,F003,2024-01-19,Dina Tawfik,Corrective,75,413.57,Temperature Sensor,Completed
+ME0133,M004,F002,2024-09-23,Khaled Ibrahim,Corrective,117,572.94,Conveyor Belt,Completed
+ME0134,M004,F000,2024-09-26,Laila Mahmoud,Preventive,19,157.88,Flux Pump,Completed
+ME0135,M001,F003,2024-09-08,Omar Youssef,Corrective,79,520.6,Filter Assembly,Pending
+ME0136,M006,F001,2024-05-18,Omar Youssef,Corrective,101,581.76,Solder Nozzle,Completed
+ME0137,M003,F001,2024-03-15,Laila Mahmoud,Corrective,105,516.66,Conveyor Belt,Completed
+ME0138,M001,F000,2024-03-07,Sara El-Sayed,Predictive,24,276.44,Heating Element,Completed
+ME0139,M006,F003,2024-09-22,Ahmed Hassan,Corrective,55,461.55,Control Board,Completed
+ME0140,M006,F001,2024-02-05,Mohamed Ali,Corrective,104,731.67,Flux Pump,Completed
+ME0141,M008,F003,2024-09-26,Laila Mahmoud,Corrective,81,524.13,Filter Assembly,Completed
+ME0142,M007,F001,2024-02-12,Mohamed Ali,Corrective,106,716.74,Camera Module,Completed
+ME0143,M001,F000,2024-03-15,Laila Mahmoud,Predictive,54,481.04,Solder Nozzle,Completed
+ME0144,M008,F002,2024-04-30,Ahmed Hassan,Corrective,129,624.34,Heating Element,In Progress
+ME0145,M003,F003,2024-07-13,Laila Mahmoud,Corrective,76,655.2,Heating Element,Completed
+ME0146,M010,F000,2024-07-28,Sara El-Sayed,Preventive,22,363.41,Calibration Kit,Completed
+ME0147,M002,F005,2024-10-24,Mohamed Ali,Corrective,38,440.38,Power Supply Unit,Pending
+ME0148,M005,F001,2024-09-05,Sara El-Sayed,Corrective,110,653.8,Conveyor Belt,Completed
+ME0149,M005,F000,2024-02-17,Khaled Ibrahim,Preventive,50,566.44,Calibration Kit,Completed
+ME0150,M001,F006,2024-06-24,Ahmed Hassan,Corrective,65,336.35,Heating Element,Completed
+ME0151,M005,F002,2024-06-08,Omar Youssef,Corrective,144,732.01,Camera Module,Completed
+ME0152,M008,F000,2024-02-21,Omar Youssef,Predictive,54,214.67,Drive Motor,Completed
+ME0153,M005,F002,2024-06-10,Ahmed Hassan,Corrective,176,652.53,Temperature Sensor,Completed
+ME0154,M008,F000,2024-05-17,Laila Mahmoud,Preventive,50,412.89,Calibration Kit,Completed
+ME0155,M004,F000,2024-11-07,Omar Youssef,Preventive,60,452.03,Flux Pump,Completed
+ME0156,M005,F000,2024-02-06,Sara El-Sayed,Predictive,21,331.64,Drive Motor,Completed
+ME0157,M009,F001,2024-01-24,Omar Youssef,Corrective,130,551.56,Conveyor Belt,Completed
+ME0158,M006,F001,2024-05-31,Ahmed Hassan,Corrective,86,447.15,Power Supply Unit,In Progress
+ME0159,M001,F001,2024-05-23,Khaled Ibrahim,Corrective,132,688.26,Calibration Kit,Completed
+ME0160,M009,F002,2024-05-09,Ahmed Hassan,Corrective,141,844.05,Heating Element,Completed
+ME0161,M008,F000,2024-08-27,Khaled Ibrahim,Preventive,57,571.34,Control Board,Completed
+ME0162,M010,F005,2024-04-11,Sara El-Sayed,Corrective,41,378.45,Heating Element,Completed
+ME0163,M008,F003,2024-02-24,Mohamed Ali,Corrective,81,702.89,Camera Module,Completed
+ME0164,M002,F000,2024-05-17,Khaled Ibrahim,Preventive,46,358.62,Solder Nozzle,Completed
+ME0165,M010,F006,2024-07-27,Dina Tawfik,Corrective,72,351.23,Filter Assembly,Pending
+ME0166,M001,F004,2024-04-18,Mohamed Ali,Corrective,50,530.14,Conveyor Belt,Completed
+ME0167,M007,F001,2024-11-16,Dina Tawfik,Corrective,99,690.55,Not Specified,Completed
+ME0168,M004,F006,2024-02-23,Mohamed Ali,Corrective,51,340.25,Power Supply Unit,Completed
+ME0169,M005,F002,2024-09-16,Nour Farouk,Corrective,160,944.98,Not Specified,Completed
+ME0170,M009,F005,2024-07-11,Omar Youssef,Corrective,44,347.59,Temperature Sensor,Completed
+ME0171,M009,F003,2024-08-20,Laila Mahmoud,Corrective,63,453.63,Solder Nozzle,Completed
+ME0172,M002,F005,2024-09-03,Sara El-Sayed,Corrective,34,338.2,Drive Motor,Completed
+ME0173,M008,F005,2024-04-27,Nour Farouk,Corrective,35,370.87,Heating Element,Completed
+ME0174,M001,F003,2024-07-20,Omar Youssef,Corrective,75,608.9,Drive Motor,Completed
+ME0175,M005,F000,2024-07-24,Dina Tawfik,Predictive,19,358.67,Control Board,Completed
+ME0176,M001,F003,2024-04-28,Omar Youssef,Corrective,62,446.88,Heating Element,Completed
+ME0177,M007,F006,2024-10-25,Ahmed Hassan,Corrective,55,416.75,Control Board,Completed
+ME0178,M010,F001,2024-03-29,Ahmed Hassan,Corrective,83,289.48,Heating Element,Completed
+ME0179,M002,F001,2024-06-16,Khaled Ibrahim,Corrective,103,683.86,Calibration Kit,Completed
+ME0180,M010,F002,2024-11-16,Mohamed Ali,Corrective,118,433.8,Conveyor Belt,Completed
+ME0181,M004,F005,2024-09-28,Omar Youssef,Corrective,38,331.04,Conveyor Belt,Completed
+ME0182,M008,F000,2024-03-06,Dina Tawfik,Preventive,22,281.22,Temperature Sensor,Completed
+ME0183,M004,F006,2024-11-17,Mohamed Ali,Corrective,70,664.48,Not Specified,Completed
+ME0184,M003,F004,2024-02-06,Sara El-Sayed,Corrective,54,241.99,Power Supply Unit,Completed
+ME0185,M009,F005,2024-07-22,Laila Mahmoud,Corrective,29,315.46,Control Board,Pending
+ME0186,M001,F000,2024-03-20,Sara El-Sayed,Predictive,35,243.0,Calibration Kit,Completed
+ME0187,M007,F001,2024-08-24,Laila Mahmoud,Corrective,81,368.08,Filter Assembly,Completed
+ME0188,M003,F000,2024-06-24,Laila Mahmoud,Preventive,82,680.92,Flux Pump,Completed
+ME0189,M008,F000,2024-10-25,Khaled Ibrahim,Predictive,43,424.63,Power Supply Unit,Completed
+ME0190,M005,F002,2024-12-16,Omar Youssef,Corrective,162,806.13,Control Board,Completed
+ME0191,M009,F005,2024-02-27,Omar Youssef,Corrective,42,360.16,Solder Nozzle,Completed
+ME0192,M005,F003,2024-01-13,Nour Farouk,Corrective,72,424.14,Heating Element,Completed
+ME0193,M006,F003,2024-10-31,Mohamed Ali,Corrective,82,428.8,Power Supply Unit,Completed
+ME0194,M008,F002,2024-09-28,Ahmed Hassan,Corrective,151,594.38,Heating Element,Completed
+ME0195,M005,F006,2024-07-18,Omar Youssef,Corrective,59,262.72,Not Specified,Pending
+ME0196,M001,F000,2024-04-20,Dina Tawfik,Predictive,56,281.59,Filter Assembly,Completed
+ME0197,M008,F004,2024-04-26,Nour Farouk,Corrective,66,421.63,Drive Motor,Pending
+ME0198,M006,F003,2024-02-04,Sara El-Sayed,Corrective,77,456.19,Camera Module,Completed
+ME0199,M002,F003,2024-09-02,Omar Youssef,Corrective,89,643.68,Solder Nozzle,Completed
+ME0200,M003,F001,2024-06-30,Khaled Ibrahim,Corrective,116,666.29,Flux Pump,Completed
+ME0201,M003,F000,2024-04-15,Mohamed Ali,Preventive,49,293.31,Not Specified,In Progress
+ME0202,M010,F003,2024-03-26,Mohamed Ali,Corrective,89,549.47,Solder Nozzle,Pending
+ME0203,M002,F005,2024-01-21,Laila Mahmoud,Corrective,39,259.22,Flux Pump,Completed
+ME0204,M007,F004,2024-06-29,Sara El-Sayed,Corrective,48,266.22,Temperature Sensor,Completed
+ME0205,M010,F005,2024-08-17,Mohamed Ali,Corrective,36,272.36,Control Board,Completed
+ME0206,M008,F003,2024-11-09,Nour Farouk,Corrective,81,402.26,Heating Element,Completed
+ME0207,M006,F000,2024-06-18,Khaled Ibrahim,Preventive,30,212.74,Heating Element,Completed
+ME0208,M003,F001,2024-03-06,Dina Tawfik,Corrective,90,464.54,Power Supply Unit,Completed
+ME0209,M003,F000,2024-03-07,Mohamed Ali,Preventive,39,210.09,Solder Nozzle,Completed
+ME0210,M005,F006,2024-04-11,Mohamed Ali,Corrective,54,246.85,Power Supply Unit,Completed
+ME0211,M009,F005,2024-01-16,Omar Youssef,Corrective,29,257.75,Heating Element,Completed
+ME0212,M010,F005,2024-07-16,Khaled Ibrahim,Corrective,35,210.8,Solder Nozzle,In Progress
+ME0213,M006,F005,2024-05-22,Dina Tawfik,Corrective,28,146.48,Power Supply Unit,Completed
+ME0214,M001,F003,2024-01-16,Sara El-Sayed,Corrective,64,444.27,Conveyor Belt,Completed
+ME0215,M008,F000,2024-07-27,Nour Farouk,Predictive,36,277.26,Heating Element,Completed
+ME0216,M001,F003,2024-11-30,Laila Mahmoud,Corrective,83,655.26,Power Supply Unit,Completed
+ME0217,M002,F005,2024-06-17,Ahmed Hassan,Corrective,39,365.61,Not Specified,Completed
+ME0218,M006,F005,2024-09-14,Khaled Ibrahim,Corrective,30,277.31,Camera Module,Completed
+ME0219,M001,F005,2024-12-24,Laila Mahmoud,corrective,32,269.11,Drive Motor,Completed
+ME0220,M010,F000,2024-07-05,Omar Youssef,Preventive,24,173.52,Drive Motor,Completed
+ME0221,M003,F001,2024-08-25,Dina Tawfik,Corrective,110,603.11,Solder Nozzle,Completed
+ME0222,M005,F003,2024-09-29,Ahmed Hassan,Corrective,88,502.37,Drive Motor,Completed
+ME0223,M010,F000,2024-08-29,Laila Mahmoud,Predictive,33,293.98,Flux Pump,Completed
+ME0224,M006,F001,2024-12-25,Ahmed Hassan,Corrective,118,632.15,Filter Assembly,In Progress
+ME0225,M006,F003,2024-06-29,Laila Mahmoud,Corrective,69,464.49,Heating Element,Completed
+ME0226,M008,F004,2024-10-30,Mohamed Ali,Corrective,46,452.44,Temperature Sensor,Completed
+ME0227,M008,F001,2024-05-08,Nour Farouk,Corrective,127,656.48,Conveyor Belt,Completed
+ME0228,M009,F002,2024-10-19,Mohamed Ali,Corrective,176,938.6,Drive Motor,Completed
+ME0229,M003,F004,2024-02-29,Laila Mahmoud,Corrective,45,407.04,Power Supply Unit,Completed
+ME0230,M005,F001,2024-08-22,Laila Mahmoud,Corrective,121,526.55,Filter Assembly,In Progress
+ME0231,M001,F006,2024-12-17,Dina Tawfik,Corrective,59,293.06,Heating Element,Completed
+ME0232,M010,F000,2024-10-31,Laila Mahmoud,Preventive,86,448.2,Conveyor Belt,In Progress
+ME0233,M004,F003,2024-09-23,Omar Youssef,Corrective,80,630.82,Flux Pump,Completed
+ME0234,M009,F000,2024-11-29,Ahmed Hassan,Predictive,51,423.18,Conveyor Belt,Completed
+ME0235,M001,F000,2024-08-28,Khaled Ibrahim,Predictive,73,562.21,Not Specified,Completed
+ME0236,M005,F002,2024-06-09,Ahmed Hassan,Corrective,172,1037.66,Camera Module,Completed
+ME0237,M008,F003,2024-07-25,Nour Farouk,Corrective,83,476.57,Control Board,Completed
+ME0238,M005,F000,2024-11-30,Nour Farouk,Predictive,62,323.05,Not Specified,Completed
+ME0239,M010,F005,2024-11-29,Ahmed Hassan,Corrective,30,262.36,Control Board,Completed
+ME0240,M008,F004,2024-11-06,Laila Mahmoud,Corrective,55,384.89,Drive Motor,Completed
+ME0241,M008,F001,2024-06-17,Laila Mahmoud,Corrective,134,701.57,Calibration Kit,Completed
+ME0242,M005,F000,2024-12-12,Dina Tawfik,Preventive,34,225.99,Control Board,Completed
+ME0243,M007,F005,2024-02-18,Ahmed Hassan,Corrective,39,327.18,Conveyor Belt,Completed
+ME0244,M008,F002,2024-09-17,Nour Farouk,Corrective,135,498.66,Not Specified,Completed
+ME0245,M005,F000,2024-01-07,Ahmed Hassan,Preventive,57,328.26,Calibration Kit,Completed
+ME0246,M003,F000,2024-04-24,Nour Farouk,Preventive,49,255.29,Not Specified,Completed
+ME0247,M002,F003,2024-05-25,Laila Mahmoud,Corrective,59,316.09,Flux Pump,Pending
+ME0248,M005,F002,2024-09-03,Nour Farouk,Corrective,129,761.52,Conveyor Belt,Completed
+ME0249,M006,F001,2024-07-07,Omar Youssef,Corrective,105,852.23,Flux Pump,Completed
+ME0250,M002,F000,2024-08-28,Dina Tawfik,Preventive,68,507.49,Drive Motor,Completed
+ME0251,M007,F004,2024-02-26,Mohamed Ali,Corrective,43,462.01,Filter Assembly,Completed
+ME0252,M008,F004,2024-12-12,Sara El-Sayed,Corrective,61,437.95,Temperature Sensor,Completed
+ME0253,M003,F005,2024-03-27,Nour Farouk,Corrective,43,286.51,Not Specified,Completed
+ME0254,M007,F000,2024-05-31,Nour Farouk,Predictive,45,381.71,Drive Motor,Completed
+ME0255,M010,F000,2024-06-19,Khaled Ibrahim,Predictive,43,337.73,Temperature Sensor,Completed
+ME0256,M004,F003,2024-04-28,Khaled Ibrahim,Corrective,71,458.14,Not Specified,Completed
+ME0257,M007,F000,2024-01-19,Omar Youssef,Preventive,39,356.78,Flux Pump,In Progress
+ME0258,M010,F000,2024-01-09,Sara El-Sayed,Preventive,27,390.7,Control Board,Completed
+ME0259,M008,F000,2024-11-06,Ahmed Hassan,Predictive,30,216.23,Heating Element,Completed
+ME0260,M004,F005,2024-10-26,Mohamed Ali,Corrective,31,298.65,Filter Assembly,Completed
+ME0261,M002,F000,2024-07-14,Sara El-Sayed,Preventive,70,557.76,Solder Nozzle,Completed
+ME0262,M010,F003,2024-03-21,Laila Mahmoud,Corrective,67,384.58,Conveyor Belt,In Progress
+ME0263,M001,F000,2024-09-02,Dina Tawfik,Preventive,42,301.82,Flux Pump,Completed
+ME0264,M008,F000,2024-05-23,Dina Tawfik,Preventive,42,348.27,Calibration Kit,Completed
+ME0265,M003,F006,2024-10-07,Ahmed Hassan,Corrective,46,231.4,Control Board,Completed
+ME0266,M002,F001,2024-03-26,Nour Farouk,Corrective,112,420.6,Power Supply Unit,Completed
+ME0267,M009,F001,2024-10-23,Ahmed Hassan,Corrective,120,549.56,Filter Assembly,Completed
+ME0268,M007,F001,2024-05-15,Dina Tawfik,Corrective,118,640.15,Drive Motor,Completed
+ME0269,M004,F003,2024-08-19,Dina Tawfik,Corrective,79,495.58,Calibration Kit,Completed
+ME0270,M001,F003,2024-12-22,Sara El-Sayed,Corrective,63,384.64,Conveyor Belt,Pending
+ME0271,M003,F002,2024-11-10,Ahmed Hassan,Corrective,151,897.72,Camera Module,Completed
+ME0272,M010,F002,2024-03-10,Omar Youssef,corrective,179,1149.11,Heating Element,Completed
+ME0273,M005,F001,2024-03-02,Omar Youssef,Corrective,81,423.27,Control Board,Completed
+ME0274,M001,F001,2024-06-20,Omar Youssef,Corrective,119,543.9,Solder Nozzle,Completed
+ME0275,M007,F006,2024-06-05,Laila Mahmoud,Corrective,74,455.07,Heating Element,Completed
+ME0276,M002,F004,2024-03-30,Khaled Ibrahim,Corrective,67,415.52,Solder Nozzle,Pending
+ME0277,M002,F004,2024-07-23,Ahmed Hassan,Corrective,42,475.37,Calibration Kit,Completed
+ME0278,M009,F000,2024-08-13,Sara El-Sayed,Preventive,45,412.93,Power Supply Unit,Completed
+ME0279,M006,F000,2024-03-28,Laila Mahmoud,Predictive,34,347.34,Conveyor Belt,Completed
+ME0280,M007,F003,2024-10-07,Khaled Ibrahim,Corrective,80,506.56,Flux Pump,Completed
+ME0281,M007,F003,2024-02-12,Ahmed Hassan,Corrective,65,234.38,Filter Assembly,In Progress
+ME0282,M008,F005,2024-01-27,Ahmed Hassan,Corrective,35,221.89,Flux Pump,Completed
+ME0283,M003,F003,2024-06-27,Mohamed Ali,Corrective,74,461.94,Control Board,Completed
+ME0284,M001,F000,2024-02-11,Dina Tawfik,Preventive,85,608.64,Filter Assembly,Completed
+ME0285,M006,F000,2024-11-23,Mohamed Ali,Predictive,50,400.1,Camera Module,Completed
+ME0286,M006,F001,2024-03-18,Ahmed Hassan,Corrective,117,744.05,Control Board,Completed
+ME0287,M005,F001,2024-02-12,Nour Farouk,Corrective,87,523.5,Camera Module,Completed
+ME0288,M002,F000,2024-04-06,Dina Tawfik,Preventive,65,466.63,Filter Assembly,Completed
+ME0289,M007,F000,2024-09-30,Dina Tawfik,Predictive,28,271.0,Heating Element,Completed
+ME0290,M005,F003,2024-11-02,Sara El-Sayed,Corrective,82,537.0,Power Supply Unit,Completed
+ME0291,M005,F003,2024-05-19,Mohamed Ali,Corrective,55,436.12,Drive Motor,Completed
+ME0292,M005,F003,2024-01-24,Omar Youssef,Corrective,69,284.17,Filter Assembly,Completed
+ME0293,M004,F000,2024-04-03,Sara El-Sayed,Preventive,39,346.93,Heating Element,In Progress
+ME0294,M001,F002,2024-12-24,Omar Youssef,Corrective,165,1129.53,Camera Module,Completed
+ME0295,M009,F003,2024-11-08,Nour Farouk,Corrective,89,413.94,Flux Pump,Completed
+ME0296,M010,F000,2024-07-29,Ahmed Hassan,Preventive,31,343.33,Control Board,Completed
+ME0297,M001,F000,2024-03-20,Ahmed Hassan,Predictive,35,439.27,Control Board,In Progress
+ME0298,M006,F000,2024-06-18,Mohamed Ali,Preventive,67,516.33,Calibration Kit,In Progress
+ME0299,M002,F002,2024-05-24,Ahmed Hassan,Corrective,157,864.23,Temperature Sensor,Completed
+ME0300,M005,F003,2024-03-30,Dina Tawfik,Corrective,87,638.09,Calibration Kit,In Progress
+ME0301,M003,F000,2024-02-11,Mohamed Ali,Preventive,49,233.74,Camera Module,Completed
+ME0302,M010,F001,2024-04-02,Dina Tawfik,Corrective,127,842.05,Calibration Kit,Completed
+ME0303,M010,F002,2024-10-04,Dina Tawfik,Corrective,175,730.78,Calibration Kit,Completed
+ME0304,M005,F000,2024-02-05,Laila Mahmoud,Preventive,39,289.91,Filter Assembly,Pending
+ME0305,M007,F003,2024-01-02,Sara El-Sayed,Corrective,88,558.68,Drive Motor,Completed
+ME0306,M010,F000,2024-04-16,Khaled Ibrahim,Preventive,66,447.03,Calibration Kit,Completed
+ME0307,M008,F000,2024-11-05,Omar Youssef,Predictive,44,522.39,Power Supply Unit,Completed
+ME0308,M003,F000,2024-12-27,Khaled Ibrahim,Preventive,34,224.82,Power Supply Unit,Completed
+ME0309,M009,F005,2024-01-16,Khaled Ibrahim,Corrective,44,182.26,Not Specified,Completed
+ME0310,M004,F000,2024-05-07,Omar Youssef,Predictive,42,448.98,Temperature Sensor,Completed
+ME0311,M003,F000,2024-05-25,Laila Mahmoud,Predictive,46,375.26,Flux Pump,Completed
+ME0312,M009,F000,2024-12-23,Nour Farouk,Preventive,79,574.87,Power Supply Unit,Completed
+ME0313,M005,F003,2024-06-26,Khaled Ibrahim,Corrective,72,435.11,Drive Motor,Completed
+ME0314,M002,F006,2024-09-24,Sara El-Sayed,Corrective,49,468.28,Flux Pump,Completed
+ME0315,M003,F002,2024-12-05,Khaled Ibrahim,Corrective,146,614.94,Drive Motor,Completed
+ME0316,M007,F006,2024-10-28,Khaled Ibrahim,Corrective,63,395.26,Calibration Kit,In Progress
+ME0317,M008,F001,2024-01-19,Dina Tawfik,Corrective,83,332.29,Control Board,Completed
+ME0318,M002,F000,2024-03-26,Mohamed Ali,Preventive,21,225.16,Power Supply Unit,Pending
+ME0319,M008,F002,2024-09-03,Mohamed Ali,Corrective,117,849.71,Drive Motor,Completed
+ME0320,M009,F004,2024-08-24,Dina Tawfik,Corrective,67,400.08,Calibration Kit,Pending
+ME0321,M008,F000,2024-10-14,Laila Mahmoud,Predictive,71,433.07,Flux Pump,Completed
+ME0322,M004,F003,2024-05-16,Dina Tawfik,Corrective,66,576.46,Control Board,Completed
+ME0323,M004,F005,2024-06-24,Ahmed Hassan,Corrective,30,243.13,Temperature Sensor,Completed
+ME0324,M001,F001,2024-05-10,Mohamed Ali,Corrective,99,549.37,Solder Nozzle,Completed
+ME0325,M008,F004,2024-04-22,Ahmed Hassan,Corrective,58,354.71,Temperature Sensor,In Progress
+ME0326,M005,F000,2024-12-29,Omar Youssef,Predictive,29,289.74,Drive Motor,Completed
+ME0327,M009,F004,2024-11-05,Dina Tawfik,Corrective,59,381.67,Temperature Sensor,In Progress
+ME0328,M001,F000,2024-05-30,Omar Youssef,Predictive,74,592.9,Drive Motor,Completed
+ME0329,M005,F005,2024-07-23,Ahmed Hassan,Corrective,35,403.25,Drive Motor,Completed
+ME0330,M005,F002,2024-05-22,Laila Mahmoud,Corrective,174,790.88,Temperature Sensor,Completed
+ME0331,M003,F000,2024-12-30,Dina Tawfik,Preventive,32,275.88,Temperature Sensor,In Progress
+ME0332,M001,F003,2024-01-06,Khaled Ibrahim,Corrective,69,425.32,Camera Module,In Progress
+ME0333,M003,F000,2024-08-03,Ahmed Hassan,Predictive,42,305.71,Conveyor Belt,Completed
+ME0334,M004,F003,2024-05-05,Omar Youssef,Corrective,55,387.19,Calibration Kit,Completed
+ME0335,M003,F000,2024-10-05,Sara El-Sayed,Predictive,57,424.39,Calibration Kit,Completed
+ME0336,M001,F003,2024-10-03,Laila Mahmoud,Corrective,88,421.23,Temperature Sensor,Completed
+ME0337,M006,F002,2024-07-25,Sara El-Sayed,Corrective,117,695.48,Calibration Kit,Completed
+ME0338,M006,F001,2024-07-14,Khaled Ibrahim,Corrective,104,619.42,Filter Assembly,Completed
+ME0339,M006,F001,2024-09-10,Nour Farouk,Corrective,99,710.87,Conveyor Belt,In Progress
+ME0340,M004,F003,2024-12-18,Nour Farouk,Corrective,58,339.3,Heating Element,Completed
+ME0341,M005,F003,2024-02-08,Nour Farouk,Corrective,76,627.21,Flux Pump,Completed
+ME0342,M003,F006,2024-02-01,Sara El-Sayed,Corrective,71,553.59,Calibration Kit,Completed
+ME0343,M007,F001,2024-11-28,Nour Farouk,Corrective,128,781.78,Heating Element,Completed
+ME0344,M008,F004,2024-05-31,Omar Youssef,Corrective,49,232.45,Control Board,Completed
+ME0345,M010,F002,2024-05-14,Laila Mahmoud,Corrective,109,698.15,Camera Module,Pending
+ME0346,M006,F005,2024-12-15,Khaled Ibrahim,Corrective,30,405.79,Not Specified,Pending
+ME0347,M001,F000,2024-12-25,Sara El-Sayed,Preventive,48,461.31,Conveyor Belt,Completed
+ME0348,M003,F005,2024-02-15,Nour Farouk,Corrective,43,411.77,Flux Pump,Completed
+ME0349,M010,F000,2024-10-17,Laila Mahmoud,Preventive,55,494.72,Heating Element,Completed
+ME0350,M003,F001,2024-06-15,Khaled Ibrahim,Corrective,81,535.63,Heating Element,Completed
+ME0351,M004,F005,2024-05-14,Omar Youssef,Corrective,39,253.37,Filter Assembly,Completed
+ME0352,M003,F001,2024-08-24,Sara El-Sayed,Corrective,103,424.67,Flux Pump,Completed
+ME0353,M003,F004,2024-01-14,Laila Mahmoud,Corrective,57,520.4,Calibration Kit,Completed
+ME0354,M001,F000,2024-02-17,Sara El-Sayed,Predictive,50,505.41,Conveyor Belt,Completed
+ME0355,M010,F003,2024-07-13,Ahmed Hassan,Corrective,64,326.27,Filter Assembly,Completed
+ME0356,M009,F000,2024-03-19,Dina Tawfik,Preventive,34,415.12,Not Specified,Completed
+ME0357,M003,F004,2024-04-29,Sara El-Sayed,Corrective,64,452.46,Camera Module,Pending
+ME0358,M008,F000,2024-02-13,Dina Tawfik,Preventive,79,298.15,Calibration Kit,Completed
+ME0359,M005,F001,2024-01-19,Laila Mahmoud,Corrective,127,590.72,Flux Pump,Completed
+ME0360,M005,F003,2024-05-14,Omar Youssef,Corrective,69,439.99,Calibration Kit,Completed
+ME0361,M006,F005,2024-01-30,Dina Tawfik,Corrective,35,349.75,Drive Motor,Completed
+ME0362,M003,F000,2024-04-25,Sara El-Sayed,Predictive,32,181.47,Temperature Sensor,Pending
+ME0363,M002,F006,2024-11-29,Ahmed Hassan,Corrective,65,416.66,Not Specified,Completed
+ME0364,M004,F003,2024-10-20,Nour Farouk,Corrective,84,417.99,Temperature Sensor,Completed
+ME0365,M010,F000,2024-11-07,Dina Tawfik,Predictive,59,419.89,Solder Nozzle,Completed
+ME0366,M001,F002,2024-01-15,Sara El-Sayed,Corrective,161,810.93,Conveyor Belt,Completed
+ME0367,M005,F000,2024-12-01,Omar Youssef,Predictive,33,207.78,Conveyor Belt,Completed
+ME0368,M006,F004,2024-09-30,Mohamed Ali,Corrective,48,432.39,Calibration Kit,Completed
+ME0369,M004,F001,2024-08-27,Nour Farouk,Corrective,120,775.88,Flux Pump,Completed
+ME0370,M009,F000,2024-12-20,Sara El-Sayed,Predictive,80,517.26,Heating Element,Completed
+ME0371,M010,F004,2024-08-03,Laila Mahmoud,Corrective,66,526.87,Flux Pump,Completed
+ME0372,M007,F002,2024-09-10,Laila Mahmoud,Corrective,173,889.07,Power Supply Unit,In Progress
+ME0373,M003,F002,2024-05-03,Khaled Ibrahim,Corrective,110,657.1,Temperature Sensor,Completed
+ME0374,M007,F005,2024-08-03,Omar Youssef,Corrective,31,287.46,Not Specified,Completed
+ME0375,M004,F004,2024-09-08,Mohamed Ali,Corrective,44,239.26,Drive Motor,Completed
+ME0376,M010,F002,2024-08-14,Sara El-Sayed,Corrective,110,539.2,Conveyor Belt,Completed
+ME0377,M005,F004,2024-05-09,Omar Youssef,Corrective,50,229.92,Camera Module,Completed
+ME0378,M002,F001,2024-02-07,Omar Youssef,Corrective,101,430.08,Conveyor Belt,In Progress
+ME0379,M002,F002,2024-02-15,Khaled Ibrahim,Corrective,119,620.25,Drive Motor,Completed
+ME0380,M007,F005,2024-06-28,Khaled Ibrahim,Corrective,30,403.29,Power Supply Unit,Completed
+ME0381,M004,F002,2024-09-12,Nour Farouk,Corrective,179,980.44,Control Board,Completed
+ME0382,M005,F005,2024-06-22,Ahmed Hassan,Corrective,33,279.11,Conveyor Belt,Completed
+ME0383,M002,F003,2024-02-17,Omar Youssef,Corrective,68,457.85,Flux Pump,Pending
+ME0384,M010,F005,2024-08-29,Dina Tawfik,Corrective,39,391.19,Not Specified,Pending
+ME0385,M004,F004,2024-07-18,Nour Farouk,Corrective,46,412.26,Conveyor Belt,In Progress
+ME0386,M008,F006,2024-01-11,Omar Youssef,Corrective,62,448.33,Filter Assembly,Completed
+ME0387,M006,F002,2024-01-17,Ahmed Hassan,Corrective,113,645.41,Camera Module,In Progress
+ME0388,M004,F005,2024-05-20,Dina Tawfik,Corrective,38,256.27,Not Specified,Pending
+ME0389,M001,F003,2024-01-08,Nour Farouk,Corrective,60,430.27,Not Specified,Completed
+ME0390,M002,F005,2024-06-05,Nour Farouk,Corrective,37,253.22,Not Specified,Completed
+ME0391,M005,F005,2024-03-11,Nour Farouk,Corrective,44,378.2,Not Specified,Completed
+ME0392,M007,F002,2024-03-07,Sara El-Sayed,Corrective,120,355.79,Power Supply Unit,Pending
+ME0393,M008,F000,2024-04-14,Nour Farouk,Predictive,73,482.64,Filter Assembly,Completed
+ME0394,M002,F004,2024-07-28,Dina Tawfik,Corrective,55,428.99,Not Specified,Completed
+ME0395,M002,F006,2024-12-17,Sara El-Sayed,Corrective,70,347.37,Temperature Sensor,Completed
+ME0396,M003,F004,2024-12-15,Laila Mahmoud,Corrective,48,376.6,Heating Element,Completed
+ME0397,M001,F005,2024-05-18,Khaled Ibrahim,Corrective,41,343.54,Camera Module,Completed
+ME0398,M003,F004,2024-11-16,Mohamed Ali,Corrective,57,405.92,Not Specified,Completed
+ME0399,M009,F003,2024-04-13,Omar Youssef,Corrective,71,573.59,Not Specified,Completed
+ME0400,M008,F006,2024-10-20,Omar Youssef,Corrective,48,429.55,Power Supply Unit,In Progress
+ME0401,M005,F002,2024-11-22,Sara El-Sayed,Corrective,159,513.92,Calibration Kit,Completed
+ME0402,M009,F006,2024-08-27,Ahmed Hassan,Corrective,65,462.87,Heating Element,In Progress
+ME0403,M008,F000,2024-10-22,Sara El-Sayed,Predictive,25,246.93,Power Supply Unit,Completed
+ME0404,M002,F005,2024-10-25,Khaled Ibrahim,Corrective,31,312.39,Camera Module,Completed
+ME0405,M008,F006,2024-04-18,Mohamed Ali,Corrective,69,590.61,Control Board,Completed
+ME0406,M004,F006,2024-09-11,Ahmed Hassan,Corrective,65,541.64,Not Specified,Completed
+ME0407,M001,F003,2024-08-28,Sara El-Sayed,Corrective,85,508.95,Flux Pump,Completed
+ME0408,M003,F004,2024-02-14,Omar Youssef,Corrective,60,307.59,Flux Pump,Completed
+ME0409,M008,F006,2024-10-19,Omar Youssef,Corrective,46,322.92,Not Specified,Completed
+ME0410,M006,F002,2024-04-14,Khaled Ibrahim,Corrective,123,817.6,Temperature Sensor,Completed
+ME0411,M007,F002,2024-12-08,Dina Tawfik,Corrective,178,905.69,Conveyor Belt,Completed
+ME0412,M001,F005,2024-10-30,Omar Youssef,Corrective,27,182.77,Calibration Kit,Completed
+ME0413,M007,F000,2024-10-23,Laila Mahmoud,Preventive,70,568.42,Filter Assembly,Pending
+ME0414,M005,F000,2024-09-15,Mohamed Ali,Preventive,56,351.22,Power Supply Unit,In Progress
+ME0415,M010,F001,2024-07-28,Omar Youssef,Corrective,127,840.01,Camera Module,Completed
+ME0416,M006,F000,2024-08-14,Sara El-Sayed,Predictive,50,409.78,Calibration Kit,Completed
+ME0417,M008,F000,2024-10-27,Mohamed Ali,Predictive,62,566.41,Solder Nozzle,Completed
+ME0418,M003,F000,2024-02-01,Omar Youssef,Preventive,57,374.1,Flux Pump,Completed
+ME0419,M005,F000,2024-06-25,Dina Tawfik,Predictive,49,401.62,Conveyor Belt,Pending
+ME0420,M005,F004,2024-01-21,Khaled Ibrahim,Corrective,46,305.68,Flux Pump,Completed
+ME0421,M008,F004,2024-07-23,Ahmed Hassan,Corrective,50,370.79,Solder Nozzle,Completed
+ME0422,M001,F005,2024-07-02,Laila Mahmoud,Corrective,42,436.37,Power Supply Unit,Completed
+ME0423,M004,F002,2024-03-10,Omar Youssef,Corrective,124,761.74,Calibration Kit,In Progress
+ME0424,M003,F000,2024-09-23,Ahmed Hassan,Preventive,40,255.46,Filter Assembly,Completed
+ME0425,M004,F004,2024-04-27,Khaled Ibrahim,Corrective,62,520.0,Conveyor Belt,Completed
+ME0426,M003,F000,2024-12-01,Laila Mahmoud,Preventive,44,210.85,Solder Nozzle,In Progress
+ME0427,M002,F003,2024-11-19,Sara El-Sayed,Corrective,85,527.08,Drive Motor,Completed
+ME0428,M003,F003,2024-07-03,Sara El-Sayed,Corrective,86,429.65,Temperature Sensor,Completed
+ME0429,M010,F005,2024-09-25,Omar Youssef,Corrective,38,421.18,Control Board,Completed
+ME0430,M010,F001,2024-12-03,Nour Farouk,Corrective,81,646.93,Camera Module,Completed
+ME0431,M005,F004,2024-06-03,Laila Mahmoud,Corrective,59,336.83,Not Specified,Completed
+ME0432,M008,F003,2024-11-13,Dina Tawfik,Corrective,69,280.3,Flux Pump,Completed
+ME0433,M004,F006,2024-11-27,Mohamed Ali,Corrective,74,462.5,Filter Assembly,Completed
+ME0434,M009,F000,2024-10-11,Laila Mahmoud,Preventive,42,384.11,Control Board,Completed
+ME0435,M004,F003,2024-02-11,Omar Youssef,Corrective,54,360.19,Drive Motor,Completed
+ME0436,M006,F004,2024-07-04,Omar Youssef,Corrective,58,353.52,Conveyor Belt,Completed
+ME0437,M009,F003,2024-07-26,Dina Tawfik,Corrective,81,464.93,Camera Module,Completed
+ME0438,M002,F005,2024-06-01,Sara El-Sayed,Corrective,37,263.19,Calibration Kit,Completed
+ME0439,M001,F002,2024-04-28,Nour Farouk,Corrective,121,523.15,Flux Pump,Completed
+ME0440,M006,F004,2024-10-16,Omar Youssef,Corrective,47,336.7,Filter Assembly,Completed
+ME0441,M004,F003,2024-11-01,Nour Farouk,Corrective,76,521.32,Solder Nozzle,Completed
+ME0442,M006,F001,2024-05-26,Dina Tawfik,Corrective,104,608.71,Heating Element,Completed
+ME0443,M004,F000,2024-01-17,Omar Youssef,Preventive,27,413.37,Solder Nozzle,Completed
+ME0444,M004,F004,2024-12-15,Mohamed Ali,Corrective,45,426.04,Temperature Sensor,Completed
+ME0445,M003,F000,2024-04-14,Sara El-Sayed,Predictive,45,259.61,Control Board,Completed
+ME0446,M010,F000,2024-03-04,Dina Tawfik,Preventive,47,408.24,Not Specified,Completed
+ME0447,M004,F001,2024-03-19,Laila Mahmoud,Corrective,97,705.72,Calibration Kit,In Progress
+ME0448,M008,F001,2024-09-20,Ahmed Hassan,Corrective,100,604.67,Power Supply Unit,Completed
+ME0449,M010,F002,2024-04-11,Nour Farouk,Corrective,174,872.18,Not Specified,Completed
+ME0450,M009,F000,2024-02-25,Khaled Ibrahim,Predictive,70,479.93,Filter Assembly,Completed
+ME0451,M008,F003,2024-04-19,Nour Farouk,Corrective,88,604.47,Conveyor Belt,Completed
+ME0452,M003,F006,2024-09-13,Dina Tawfik,Corrective,45,316.47,Heating Element,Completed
+ME0453,M009,F004,2024-06-04,Dina Tawfik,Corrective,52,503.16,Calibration Kit,Completed
+ME0454,M005,F005,2024-05-05,Ahmed Hassan,Corrective,33,293.34,Drive Motor,Completed
+ME0455,M007,F004,2024-03-21,Omar Youssef,Corrective,42,313.08,Filter Assembly,Completed
+ME0456,M005,F005,2024-07-20,Laila Mahmoud,Corrective,44,414.42,Camera Module,Completed
+ME0457,M006,F002,2024-05-08,Omar Youssef,Corrective,150,532.59,Heating Element,Completed
+ME0458,M001,F002,2024-04-30,Omar Youssef,Corrective,112,516.35,Drive Motor,In Progress
+ME0459,M010,F001,2024-05-28,Khaled Ibrahim,Corrective,81,525.91,Solder Nozzle,Completed
+ME0460,M008,F002,2024-05-21,Mohamed Ali,Corrective,160,894.03,Heating Element,Completed
+ME0461,M003,F005,2024-02-29,Nour Farouk,Corrective,27,360.38,Control Board,Completed
+ME0462,M006,F004,2024-10-09,Ahmed Hassan,Corrective,59,498.82,Control Board,Completed
+ME0463,M001,F000,2024-06-03,Omar Youssef,Preventive,33,281.42,Not Specified,Completed
+ME0464,M001,F005,2024-02-21,Nour Farouk,Corrective,36,174.17,Conveyor Belt,Completed
+ME0465,M008,F004,2024-04-08,Khaled Ibrahim,Corrective,40,490.05,Heating Element,Completed
+ME0466,M006,F000,2024-08-26,Sara El-Sayed,Preventive,53,472.26,Heating Element,Completed
+ME0467,M004,F003,2024-07-24,Laila Mahmoud,Corrective,80,347.74,Heating Element,Completed
+ME0468,M010,F002,2024-07-29,Ahmed Hassan,Corrective,113,644.39,Heating Element,Completed
+ME0469,M005,F006,2024-11-08,Nour Farouk,Corrective,62,283.68,Calibration Kit,In Progress
+ME0470,M001,F005,2024-09-08,Mohamed Ali,Corrective,39,238.65,Filter Assembly,Completed
+ME0471,M002,F000,2024-04-09,Ahmed Hassan,Predictive,44,383.44,Camera Module,Completed
+ME0472,M004,F005,2024-09-01,Omar Youssef,Corrective,28,322.04,Calibration Kit,Completed
+ME0473,M003,F000,2024-08-17,Mohamed Ali,Preventive,50,414.78,Flux Pump,In Progress
+ME0474,M001,F000,2024-11-28,Sara El-Sayed,Preventive,55,560.28,Power Supply Unit,Completed
+ME0475,M003,F000,2024-02-26,Mohamed Ali,Predictive,32,156.56,Heating Element,Completed
+ME0476,M004,F003,2024-12-13,Dina Tawfik,corrective,75,302.19,Drive Motor,Completed
+ME0477,M010,F000,2024-03-10,Sara El-Sayed,Preventive,32,323.0,Filter Assembly,Completed
+ME0478,M001,F004,2024-10-25,Khaled Ibrahim,Corrective,57,391.23,Calibration Kit,Completed
+ME0479,M006,F001,2024-01-16,Ahmed Hassan,Corrective,85,310.69,Solder Nozzle,Completed
+ME0480,M009,F001,2024-03-03,Khaled Ibrahim,Corrective,95,489.18,Calibration Kit,Completed
+ME0481,M005,F005,2024-07-27,Khaled Ibrahim,Corrective,42,416.33,Temperature Sensor,In Progress
+ME0482,M001,F005,2024-10-09,Ahmed Hassan,Corrective,31,245.85,Filter Assembly,In Progress
+ME0483,M007,F003,2024-01-06,Mohamed Ali,Corrective,83,648.97,Calibration Kit,Completed
+ME0484,M008,F001,2024-05-14,Nour Farouk,Corrective,104,655.0,Control Board,Completed
+ME0485,M010,F000,2024-11-30,Ahmed Hassan,Predictive,36,245.87,Control Board,Completed
+ME0486,M005,F001,2024-11-13,Laila Mahmoud,Corrective,131,880.01,Power Supply Unit,Completed
+ME0487,M009,F002,2024-05-27,Sara El-Sayed,Corrective,162,968.48,Drive Motor,Completed
+ME0488,M007,F002,2024-05-26,Omar Youssef,Corrective,145,717.42,Camera Module,Completed
+ME0489,M009,F003,2024-06-12,Dina Tawfik,Corrective,54,581.99,Power Supply Unit,Completed
+ME0490,M007,F000,2024-02-13,Khaled Ibrahim,Predictive,43,350.03,Conveyor Belt,Completed
+ME0491,M010,F000,2024-09-24,Ahmed Hassan,Predictive,69,549.71,Power Supply Unit,Completed
+ME0492,M002,F001,2024-07-21,Mohamed Ali,Corrective,89,528.14,Control Board,Completed
+ME0493,M002,F005,2024-07-05,Khaled Ibrahim,Corrective,35,173.06,Flux Pump,Completed
+ME0494,M003,F001,2024-04-13,Khaled Ibrahim,Corrective,99,725.89,Conveyor Belt,Completed
+ME0495,M010,F005,2024-07-18,Mohamed Ali,Corrective,35,387.79,Conveyor Belt,Completed
+ME0496,M001,F001,2024-11-16,Sara El-Sayed,Corrective,120,481.76,Heating Element,Completed
+ME0497,M009,F001,2024-05-19,Mohamed Ali,Corrective,103,649.45,Filter Assembly,Completed
+ME0498,M004,F000,2024-03-17,Khaled Ibrahim,Preventive,25,409.08,Filter Assembly,Completed
+ME0499,M004,F004,2024-02-25,Dina Tawfik,Corrective,47,465.66,Camera Module,In Progress
+ME0500,M009,F000,2024-04-23,Khaled Ibrahim,Preventive,70,548.17,Calibration Kit,Completed
