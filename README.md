@@ -1,16 +1,20 @@
-# Manufacturing Downtime Analysis & Forecasting
+# Manufacturing Downtime Analysis Dashboard
 
 ## Project Idea
 
-This project focuses on analyzing a manufacturing dataset to study machine downtime, extract operational insights, answer analytical and forecasting questions, and build a visualization dashboard to support production decision-making.
+This project focuses on analyzing manufacturing downtime data to identify operational inefficiencies, uncover downtime patterns, and support production decision-making through interactive dashboards.
 
 The project includes:
 
-- **Data preprocessing and cleaning**
-- **Exploratory Data Analysis (EDA)**
-- **Predictive maintenance modeling using machine learning**
-- **Downtime forecasting**
-- **Building an interactive dashboard using Tableau**
+* Data generation and preparation
+* Data cleaning and preprocessing
+* Relational database preparation
+* Exploratory Data Analysis (EDA)
+* KPI identification and DAX measures documentation
+* Dashboard planning and design
+* Interactive dashboard development using Power BI
+
+The final solution provides insights into machine performance, downtime causes, operational efficiency, and production trends to support data-driven decision-making.
 
 ---
 
@@ -20,71 +24,88 @@ The project includes:
 
 ### Team Members
 
-- **Norhan Ahmed Elagmel** (Leader)
-- Basmala Ahmed Eid
-- Nada Waleed Mustafa
-- Nada Ali Abdellatif
-- Hebaallah Samy Ahmed
+* **Norhan Ahmed Elagmel** (Leader)
+* Basmala Ahmed Eid
+* Nada Waleed Mustafa
+* Nada Ali Abdellatif
+* Hebaallah Samy Ahmed
 
 ---
 
 ## Project Plan
 
-### 1. Research & Analysis
+### 1. Data Preparation
 
-- Data preprocessing and cleaning
-- Build manufacturing data model
-- Identify operational and downtime analysis questions
-- **Target Audience:** Operations managers, maintenance engineers, plant supervisors
+* Generate and organize the manufacturing dataset.
+* Clean and preprocess the data.
+* Handle missing values, duplicates, and data quality issues.
 
-### 2. Visual Identity
+### 2. Database Preparation
 
-- Logo design for presentation and dashboard branding
+* Build relationships between tables.
+* Prepare the relational database structure.
+* Organize data for efficient analysis and reporting.
 
-### 3. Main Designs
+### 3. Business Analysis & Dashboard Planning
 
-- Downtime dashboard design
-- Operational performance visualizations
-- Presentation slides
+* Define business and operational analysis questions.
+* Identify key performance indicators (KPIs).
+* Document DAX measures and dashboard requirements.
+* Create a dashboard planning guide.
 
-### 4. Complementary Products
+### 4. Dashboard Design
 
-- Data preprocessing notebook
-- Predictive maintenance model notebook
-- Downtime forecasting notebook
+* Design dashboard layouts using Figma.
+* Define visual structure and user experience.
 
-### 5. Review & Finalization
+### 5. Dashboard Development
 
-- Validate model performance
-- Optimize dashboard performance
-- Final documentation
+* Develop dashboard components.
+* Implement dashboards in Power BI.
+* Configure filters, interactions, and calculations.
 
-### 6. Final Presentation
+### 6. Review & Finalization
 
-- Present operational insights
-- Explain forecasting results
-- Demonstrate dashboard functionality
+* Validate calculations and dashboard functionality.
+* Review dashboard consistency and usability.
+* Finalize project documentation.
+
+### 7. Final Presentation
+
+* Present key findings and insights.
+* Demonstrate dashboard functionality.
+* Explain business recommendations.
 
 ---
 
 ## Roles & Responsibilities
 
-- **Data Cleaning & Preprocessing** — SQL, Python (Pandas)
-- **Data Analysis & Visualization** — Python (Matplotlib), Tableau
-- **Predictive Maintenance Modeling** — Python (Scikit-learn)
-- **Downtime Forecasting** — Python (Scikit-learn, Pandas)
-- **Dashboard Development** — Tableau
-- **Documentation & Presentation** — Team collaboration
+### Nada Waleed Mustafa
 
----
+* Dataset Generation
+* Data Cleaning & Preprocessing
+* Database Preparation
+* KPI Definition
+* DAX Measures Documentation
+* Dashboard Planning Guide
 
-## KPIs (Key Performance Indicators)
+### Nada Ali Abdellatif
 
-- Data cleaning accuracy
-- Machine failure prediction accuracy
-- Downtime prediction precision and recall
-- Dashboard usability
-- Insight usefulness for operational decision-making
+* Dashboard UI/UX Design (Figma)
+* DAX Measures 
+
+### Hebaallah Samy Ahmed
+
+* Dashboard Components Development
+
+### Basmala Ahmed Eid
+
+* Dashboard Implementation (Dashboards OEE Overview, Downtime & Failure Analysis, Maintenance & Reliability )
+
+### Norhan Ahmed Elagmel
+
+* Dashboard Implementation (Dashboards Machine Performance Comparison, Quality & Defect Tracking, Thermal & Energy Analysis)
+* Team Coordination
 
 ---
 
@@ -94,120 +115,102 @@ Mr. Abdelrahman Ashour
 
 ---
 
-# Project Timeline (4 Weeks)
+# Project Timeline
 
-## Week 1 — Data Model & Preprocessing
+## Week 1 — Data Preparation
 
 ### Tasks
 
-- Build manufacturing data model
-- Clean and preprocess dataset
-- Handle missing values
-- Perform feature engineering
-
-### Tools
-
-- SQL
-- Python (Pandas, Matplotlib)
+* Generate and organize the dataset.
+* Clean and preprocess data.
+* Handle missing values and duplicates.
+* Validate data quality.
 
 ### Deliverables
 
-- Cleaned dataset
-- Data preprocessing notebook
+* Cleaned Dataset
+* Data Cleaning Script
 
 ---
 
-## Week 2 — Analysis Questions Phase
+## Week 2 — Database Preparation & Analysis Planning
 
 ### Tasks
 
-- Define operational analysis questions
-- Analyze factors affecting machine failure
-- Identify patterns in downtime causes
-- Evaluate the impact of temperature, torque, and tool wear on failure
-
-### Tools
-
-- SQL
-- Python (Pandas, Matplotlib)
+* Build relationships between tables.
+* Prepare database structure.
+* Define analysis questions.
+* Identify KPIs and reporting requirements.
 
 ### Deliverables
 
-- Set of analysis questions
-- Exploratory data analysis visualizations
+* Relational Data Model
+* Analysis Questions
+* KPI Definitions
 
 ---
 
-## Week 3 — Forecasting Phase
+## Week 3 — Dashboard Planning & Design
 
 ### Tasks
 
-- Define forecasting questions
-- Predict machine downtime probability for the next operational day
-- Estimate production impact
-- Recommend number of batches to produce based on risk
-
-### Tools
-
-- Python (Scikit-learn, Pandas, Matplotlib)
+* Document DAX measures.
+* Create dashboard planning guide.
+* Design dashboard layouts using Figma.
 
 ### Deliverables
 
-- Downtime prediction model
-- Model evaluation metrics:
-  - Accuracy
-  - Precision
-  - Recall
-  - F1 Score
-- Forecasting visualizations
+* DAX Measures Documentation
+* Dashboard Planning Guide
+* Figma Dashboard Designs
 
 ---
 
-## Week 4 — Dashboard & Final Presentation
+## Week 4 — Dashboard Development & Final Presentation
 
 ### Tasks
 
-- Build Tableau dashboard
-- Visualize operational KPIs
-- Present model insights and business impact
-- Prepare final documentation and slides
-
-### Tools
-
-- SQL
-- Python
-- Tableau
+* Implement dashboards in Power BI.
+* Validate calculations and visualizations.
+* Test dashboard functionality.
+* Prepare final presentation.
 
 ### Deliverables
 
-- Interactive downtime dashboard
-- Final report
-- Final presentation
+* Interactive Power BI Dashboard
+* Final Report
+* Final Presentation
 
 ---
 
 ## Project Files
 
-You can find the full project files here:  
-Add Google Drive or GitHub repository link here
+Project files are organized into the following sections:
+
+* Dataset
+* SQL Scripts
+* DAX Documentation
+* Dashboard Planning Guide
+* Power BI Files
+* Project Documentation
 
 ---
 
 ## Tools & Technologies
 
-- SQL
-- Python
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Tableau
+* SQL Server
+* Python
+* Pandas
+* Power BI
+* Figma
 
 ---
 
 ## Expected Outcomes
 
-- Clean and structured manufacturing dataset
-- Operational insights about machine performance
-- Predictive maintenance model
-- Downtime probability forecasting
-- Decision-support dashboard for plant managers
+* Clean and structured manufacturing dataset
+* Relational database ready for analysis
+* Well-defined KPIs and DAX measures
+* Interactive Power BI dashboards
+* Insights into downtime causes and operational performance
+* Decision-support reporting for production management
